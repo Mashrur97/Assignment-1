@@ -112,7 +112,7 @@ color: rgba(14, 14, 14, 0.5);
     margin-right: 160px;
 }
 .card-btn{
-    margin-top: 32px;
+    margin-top: 10px;
     padding: 13px 26px;
     background-color: rgba(0, 106, 80, 1);
     color: white;
@@ -131,9 +131,44 @@ color: rgba(14, 14, 14, 0.5);
     margin-top: 32px;
     margin-bottom: 32px;
 }
+.c1{
+    margin-top: -7px;
+}
 .cimg{
     border-radius: 20px;
 }
 #bbtn:hover{
     background-color: rgb(0, 67, 58);
+}
+.t-align{
+    text-align: center;
+}
+.donate{
+    margin-top: 100px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.d-items{
+    margin-top: 32px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.item{
+    border-radius: 10px;
+    padding: 5px 40px;
+    background-color: #F5F5F5;
+}
+.item:hover{
+    background-color: rgba(198, 228, 214, 1);
+}
+#t-area{
+    text-align: center;
+    padding: 15px 40px;
+    border: none;
+    margin-bottom: 12px;
+}
+.dbtn{
+    margin-bottom: 30px;
 }
