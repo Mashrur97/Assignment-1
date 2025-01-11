@@ -91,10 +91,49 @@ color: rgba(14, 14, 14, 0.5);
 .blu-btn{
     background-color: rgba(84, 144, 245, 1);
 }
+.blu-btn:hover{
+    background-color: rgb(0, 77, 210);
+}
 .gre-btn{
     background-color: rgba(9, 161, 92, 1);
+}
+.gre-btn:hover{
+    background-color: rgb(0, 87, 48);
 }
 .ora-btn{
     background-color: rgba(255, 194, 57, 1);
 }
-
+.ora-btn:hover{
+    background-color: orange;
+}
+.recents{
+    margin-top: 100px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.card-btn{
+    margin-top: 32px;
+    padding: 13px 26px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.card-btn:hover{
+    background-color: rgb(0, 161, 107);
+}
+.card{
+    border-radius: 20px;
+    padding: 48px;
+    display: flex;
+    gap: 32px;
+    background-color: #F5F5F5;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.cimg{
+    border-radius: 20px;
+}
+#bbtn:hover{
+    background-color: rgb(0, 67, 58);
+}
