@@ -171,6 +171,7 @@ margin-bottom: -15px;
 .item{
     border-radius: 10px;
     padding: 5px 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
     background-color: #ffffff;
 }
 .item:hover{
@@ -243,7 +244,8 @@ footer{
   background-image: url('../assets/quote-bg.png');
   background-repeat: no-repeat;
   background-color: #ffffff;
-  background-position: 0px 40px;
+  background-position: 23px 40px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 48px;
